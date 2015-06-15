@@ -5,7 +5,7 @@ This Plugin Requires https://github.com/Whebcraft/System_api.git
 
 Install https://github.com/Whebcraft/Cordova-Wifi-Control.git
 
-## com.webcraft.wifi-control
+## com.webcraft.wificontrols
 
 Wifi Controls plugin has a dual purpose, control the Wifi state and return the signal strength value.
 
